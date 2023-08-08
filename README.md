@@ -16,6 +16,9 @@ These are four csv files that are a declarative version of the QA pairs in MegaW
 
 This csv file displays two different versions of QA pairs to declarative conversion. v1 represents a sentence produced using turker_answer based model and v2 represents that using rule-based based model.
 
+
+## Examples
+
 These are some examples of the difference between two conversion models:
 
 Q: for which parliamentary constituency did don primarolo serve from 1987 to 2015
@@ -27,5 +30,7 @@ Q: how many new bank notes are there in india
 A: 100
 turker_answer based (v1): There are 100 new bank notes in India.
 rule-based based (v2): There in India are 100 new bank notes.
+
+## 
 
 Thus, for further steps in this project, I plan to use declarative sentences converted using turker_answer based model (v1).
