@@ -23,15 +23,25 @@ This csv file displays two different versions of QA pairs to declarative convers
 
 These are some examples of the difference between two conversion models:
 
-Q: for which parliamentary constituency did don primarolo serve from 1987 to 2015 \\
-A: Bristol South \\
-turker_answer based (v1): Don primarolo served Bristol South from 1987 to 2015. \\
-rule-based based (v2): Don primarolo served Bristol South from 1987 to 2015 from Bristol South. \\
-\\
-Q: how many new bank notes are there in india \\
-A: 100 \\
-turker_answer based (v1): There are 100 new bank notes in India. \\
-rule-based based (v2): There in India are 100 new bank notes. \\
+### Example 1:
+
+Q: for which parliamentary constituency did don primarolo serve from 1987 to 2015
+
+A: Bristol South
+
+turker_answer based (v1): Don primarolo served Bristol South from 1987 to 2015.
+
+rule-based based (v2): Don primarolo served Bristol South from 1987 to 2015 from Bristol South.
+
+### Example 2:
+
+Q: how many new bank notes are there in india 
+
+A: 100
+
+turker_answer based (v1): There are 100 new bank notes in India.
+
+rule-based based (v2): There in India are 100 new bank notes. 
 
 ## 
 
