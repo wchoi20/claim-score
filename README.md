@@ -2,7 +2,9 @@
 
 This is a repository for relevant files used in 'claim-score' project.
 
-The folder 'original-data'includes original data of MegaWika (Barham et al, 2023). Only necessary rows from the dataset are extracted (passage, question, answer, score) and are used.
+## original-data/MegaWika-{test/train}.csv
+
+The folder 'original-data'includes original data of MegaWika (Barham et al, 2023). Only necessary rows from the dataset are extracted (passage, question, answer, score) and used.
 
 ## MegaWika-{train/test}-filtered.csv
 
